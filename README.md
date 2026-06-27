@@ -48,7 +48,7 @@
   <a href="https://www.linkedin.com/in/murugesanmohanraj" target="blank"
     ><img
     align="center"
-    src="https://cdn.simpleicons.org/linkedin/0A66C2"
+    src="https://skillicons.dev/icons?i=linkedin"
     alt="LinkedIn"
     height="40"
     width="40"
@@ -96,7 +96,7 @@
     style="text-decoration: none"
   >
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
       alt="aws"
       width="40"
       height="40"
@@ -110,7 +110,7 @@
     style="text-decoration: none"
   >
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/1200px-Babel_Logo.svg.png"
+      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/babel.svg"
       alt="babel"
       width="40"
       height="40"
@@ -124,7 +124,7 @@
     style="text-decoration: none"
   >
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png"
+      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bootstrap.svg"
       alt="bootstrap"
       width="40"
       height="40"
@@ -356,20 +356,6 @@
     />
   </a>
   <a
-    href="https://kubernetes.io"
-    target="_blank"
-    rel="noreferrer"
-    style="text-decoration: none"
-  >
-    <img
-      src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
-      alt="kubernetes"
-      width="40"
-      height="40"
-      style="margin-right: 20px"
-    />
-  </a>
-  <a
     href="https://www.mongodb.com/"
     target="_blank"
     rel="noreferrer"
@@ -432,7 +418,7 @@
     style="text-decoration: none"
   >
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
       alt="postgresql"
       width="40"
       height="40"
