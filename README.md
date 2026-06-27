@@ -41,7 +41,7 @@
   <a href="https://stackoverflow.com/users/17737494" target="blank"
     ><img
       align="center"
-      src="https://pbs.twimg.com/profile_images/1220067947798024192/30eZhfxx_400x400.png"
+     src="https://cdn.simpleicons.org/stackoverflow/F58025"
       alt="17737494"
       height="40"
       width="40"
