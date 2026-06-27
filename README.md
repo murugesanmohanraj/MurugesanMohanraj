@@ -32,12 +32,12 @@
   /></a>
   <a href="https://www.linkedin.com/in/murugesanmohanraj" target="blank"
     ><img
-      align="center"
-      src="https://cdn.simpleicons.org/linkedin/0A66C2"
-      alt="mohanrajmurugasen"
-      height="40"
-      width="40"
-      style="margin-right: 20px"
+    align="center"
+    src="https://cdn.simpleicons.org/linkedin/0A66C2"
+    alt="LinkedIn"
+    height="40"
+    width="40"
+    style="margin-right: 20px"
   /></a>
   <a href="https://stackoverflow.com/users/17737494" target="blank"
     ><img
