@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohanraj Murugesan</h1>
-<h3 align="center">A passionate full stack engineer from India</h3>
+<h3 align="center">Senior Software Engineer | Building Scalable Software Solutions</h3>
 
 <p align="left">
   <img
@@ -9,14 +9,29 @@
 </p>
 
 <ul>
-  <li>- 🔭 I'm currently working on [Point of sale (POS) Application] <a href="https://ss-service-advanced.04partners-dev.com/login" target="blank">Project Link</a></li>
-  <li>- 🌱 I'm currently learning **Java, Vue.js, and serve as an AI prompt engineer, continually enhance my Data Structures and Algorithms (DSA) skills.**</li>
-  <li>- 👨‍💻 All of my projects are available at <a href="https://mohanrajdev.netlify.app/" target="blank">Checkout My Website</a></li>
-  <li>- 💬 Ask me about **JavaScript, React, TypeScript, Next.js, Node.js, and AWS**</li>
-  <li>- 📫 How to reach me **mohanraj.mv.99@gmail.com**</li>
-  <li>- 📄 Know about my experiences <a href="https://mohanrajdev.netlify.app/resume" target="blank">Resume</a></li>
-  <li>- 🤝✨ Let's Code Together: Schedule a Collaboration Session with a Full-Stack Enthusiast <a href="https://calendly.com/mohanraj-mv-99/30min?month=2023-11" target="blank">Connect with me.</a></li>
-  <li>- ⚡ Fun fact **🚀 As a full-stack engineer, I architect robust backends and design captivating frontends, merging code and creativity seamlessly.**</li>
+  <li>🔭 I'm currently building enterprise SaaS applications for the <strong>Wood Mackenzie Lens</strong> platform at <strong>GlobalLogic</strong>.</li>
+
+  <li>🌱 I believe in continuous learning and enjoy exploring new tools, technologies, and engineering best practices.</li>
+
+  <li>👨‍💻 Explore my projects and portfolio:
+    <a href="https://mohanrajdev.netlify.app/" target="_blank">mohanrajdev.netlify.app</a>
+  </li>
+
+  <li>💬 Ask me about <strong>JavaScript, TypeScript, React, Next.js, Node.js, GraphQL, AWS, and Software Architecture</strong>.</li>
+
+  <li>📫 Reach me at
+    <strong>mohanraj.mv.99@gmail.com</strong>
+  </li>
+
+  <li>📄 View my resume:
+    <a href="https://mohanrajdev.netlify.app/resume" target="_blank">Resume</a>
+  </li>
+
+  <li>🤝 I'm always open to collaborating on interesting projects, open-source contributions, and knowledge sharing.
+    <a href="https://calendly.com/mohanraj-mv-99/30min?month=2023-11" target="_blank">Let's Connect</a>
+  </li>
+
+  <li>⚡ I enjoy solving complex problems, building scalable software, and continuously learning new technologies.</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
